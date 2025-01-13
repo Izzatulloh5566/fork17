@@ -9,4 +9,29 @@
     width: 100%;
     margin: 0 auto;
     padding: 0 15px;
+
+}
+.ali{
+    background-color: #F8EDF0;
+}
+
+.title{
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.ali_box{
+    display: flex;
+    align-items: center;
+}
+
+.see{
+    color: #fff;
+    background-color: #D64374;
+    padding: 15px;
+    text-decoration: none;
+}
+.title_p{
+    margin-bottom: 40px;
 }
